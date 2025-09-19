@@ -2,13 +2,13 @@
 Aula do Professor PhD. Bruno Zolotareff dos Santos <br> 
 Fatec Mauá - Informática para Negócios
 
-Link web: https://bzsantos.github.io/felixinfo/
+Link web: https://salamanderjj.github.io/felixinfo/
 
 ## Grupo
-Albert Einsten <br>
-Charles Darwin <br>
-Leonardo DaVinci <br>
-Isaac Newton <br>
-Nicolas Tesla
+João Victor dos Santos Ferreira <br>
+Jordani Nascimento Andrade <br>
+Lucas Santos Monteiro <br>
+Matheus Peres do Nascimento <br>
+Rui Santiago Faria
 
 
