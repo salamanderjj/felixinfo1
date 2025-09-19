@@ -6,5 +6,7 @@ Fatec Mauá - Informática para Negócios
 Albert Einsten <br>
 Charles Darwin <br>
 Leonardo DaVinci <br>
+Isaac Newton <br>
 Nicolas Tesla
+
 
