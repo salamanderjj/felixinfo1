@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <style>
+        .container {
+            background-color: rgb(26, 201, 236);
+            display: flex;
+            flex-direction: row;
+
+            margin-top: 100px;
+            border: 2px solid burlywood;
+
+
+        
+        }
+        .tamanho {
+            width: 225px;
+            height: 210px;
+            border-radius: 15px;
+        }
+        .forms{
+            background-color: rgb(42, 140, 165);
+            border-radius: 2%;
+            display: flex;
+            flex-direction: column;
+
+            margin-left: 10px;
+            margin-right: 900px;
+            border: 2px solid rgb(0, 255, 255);
+            padding-left: 5px;
+            padding-right: 5px;
+            padding-bottom: 10px;
+            gap: 5px;           
+
+
+        }
+        .caixa {
+            font-size: 16px;
+            font-family: 'Times New Roman', Times, serif;
+            color: blue;
+            font-weight: bold;
+        }
+        .botoes {
+            display: flex;
+            flex-direction:row;
+        }
+        .btn1 {
+            font-size: 16px;
+            font-weight: bold;
+            border-radius: 5px;
+        }
+        .btn1:hover {
+            background-color: beige;
+            color:brown;
+        }
+        .btn2 {
+            font-size: 16px;
+            font-weight: bold;
+            border-radius: 5px;
+        }
+        .btn2:hover {
+            background-color: rgb(245, 220, 238);
+            color:rgb(42, 50, 165);
+        }
+
+    </style>
+
+    <div class="container">
+         <img src="img/gatofelix.png" alt="gato" class="tamanho">
+         
+         <div class="forms">
+            <h1>Cadastro do clube Félix</h1>
+            <input type="text" id="nome" placeholder="Coloque seu nome" class="caixa">
+            <input type="text" id="mail" placeholder="Seu e-mail"  class="caixa">
+            <input type="text" id="fone" placeholder="Seu telefone"  class="caixa">
+                <div class="botoes">
+                  <button type="button" id="cadastrar" class="btn1">Cadastrar</button>
+                  <button type="button" id="enviar" class="btn2">Enviar</button>
+                </div>
+
+         </div>
+    </div>
+    
+</body>
+</html>
